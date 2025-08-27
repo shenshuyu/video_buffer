@@ -2,8 +2,6 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
-#include <sys/uio.h>
-
 #include "fifo.h"
 
 #define min(x, y)    ((x) < (y) ? (x) : (y))

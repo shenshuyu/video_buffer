@@ -1,6 +1,8 @@
 #ifndef __FIFO_H__
 #define __FIFO_H__
 
+#include <sys/uio.h>
+
 #ifdef __cplusplus
 #if __cplusplus
 extern "C" {
